@@ -8,9 +8,9 @@ public class DistanceDisable : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        terrain.treeDistance = 120;
-        terrain.treeBillboardDistance = 10;
-        terrain.treeCrossFadeLength = 7;
+        terrain.treeDistance = 155;
+        terrain.treeBillboardDistance = 30;
+        terrain.treeCrossFadeLength = 5;
         terrain.Flush();
 	}
 	
