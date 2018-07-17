@@ -1,0 +1,13 @@
+Version 3.3 :
+
+- Source .rar updated with this release and moved in the Plugins folder.
+- Update of the Voxeland (5.3) integration.
+- Fix of Assertion failed hierarchy problem for Unity 2017f3.
+- Improvement of sockets detection in the Third Person Demo.
+- Fix of Base Part rotation axis, all the axis are now take in account.
+- Rework of (Remove Grass) add-on for the voxeland integration.
+- Disabling of the physics in the Basic Features Demos.
+- Fix Index Is Out Of Range in the UI Circular Menu.
+- Added door synchronisation on UNet and Photon Network integration.
+- Added cancel key (right click) to remove the current mode used in the circular menu.
+- Added a new shader (Transparent) to fix the built-in shader which was not transparent on some platforms.

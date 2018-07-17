@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1669859052, guid: 1307baa4c991a5b44b29c3c682cf2c29, type: 3}
+  m_Name: Ultimate Survival - Build Collection
+  m_EditorClassIdentifier: 
+  Parts:
+  - {fileID: 114478906692366752, guid: f059c993919aac6439c2339ededb7442, type: 2}
+  - {fileID: 114170875418764052, guid: 7b1b34f774e852d44b085b4b1d3838f2, type: 2}
+  - {fileID: 114629505966697466, guid: 4c2b12ce57052f0429819b21dc13e42e, type: 2}
+  - {fileID: 114962328118027572, guid: 528c2c9b415c9bd46ba7fb95fa641d6e, type: 2}
+  - {fileID: 114106333336403554, guid: 2fb11e17bde137c438bb1caf0ac525e5, type: 2}
+  - {fileID: 114661695816764276, guid: b72137720e8c9f846ae8f7226b44cc1c, type: 2}
+  - {fileID: 114095255318055712, guid: 6869d209a39362e4d99e1a57fbc77250, type: 2}
+  - {fileID: 114578810215884500, guid: 6c3c4ac5101779a4f90a039fe9b647a2, type: 2}
+  - {fileID: 114106333336403554, guid: db3d1e7534e8040469a81331772d6be7, type: 2}
+  - {fileID: 114106333336403554, guid: 2c5e3cc8139b6394e9466e83044dbde9, type: 2}
+  - {fileID: 114106333336403554, guid: 609b39e3b5c616746a1c847c16f0bda8, type: 2}
+  - {fileID: 114106333336403554, guid: ba1b464912cdca14b95cf76297d4ddf9, type: 2}
+  - {fileID: 114106333336403554, guid: 59468968b74b97740ab922f58f7daa7f, type: 2}

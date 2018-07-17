@@ -1,0 +1,45 @@
+  ___                ___      _ _    _   ___         _             
+ | __|__ _ ____  _  | _ )_  _(_) |__| | / __|_  _ __| |_ ___ _ __  
+ | _|/ _` (_-< || | | _ \ || | | / _` | \__ \ || (_-<  _/ -_) '  \ 
+ |___\__,_/__/\_, | |___/\_,_|_|_\__,_| |___/\_, /__/\__\___|_|_|_|
+              |__/                           |__/       Release 3.3
+
+Copyright © 2015-2018 by http://AdsStudio12.net. All right reserved.
+
+Thanks you for have purchasing/updated Easy Build System.
+
+Important : Consult the devblog on our website to know all changes made on the current version.
+
+You can also register on the forum to have access to support as well as exclusive contents as like add-ons, scripts, resources.
+If you are having problems with the asset, please report him on the forum or by email (AdsStudio12@gmail.com).
+
+Help us to improve the project by posting a comment as well as a note on the official page of the asset.
+
+----------------------
+
+How To Works Out Of The Box ?
+
+Before all, make a backup of your project this is very important.
+To export the system (Out of box), it is necessary not to use a version of unity later than version 2017f.1 as well as the API Updater.
+Asset has need imported directly from Asset Store on your project without the Project Settings.
+If you have problems / questions during the operation, do not hesitate to contact us.
+
+----------------------
+
+How Fracture Your Own Models ?
+
+The models available in this package have been fractured thanks to the Fracturing & Destruction asset (https://www.assetstore.unity3d.com/en/#!/content/9411).
+This asset can be very useful if you want to break your own model or use fracturing algorithms on Maya or Blender.
+
+----------------------
+
+Unity Asset(s) :
+
+Lighting Optimisation Tutorial : https://www.assetstore.unity3d.com/en/#!/content/73563
+Unity Particle Pack : https://www.assetstore.unity3d.com/en/#!/content/73777
+
+----------------------
+
+Support (FR/EN) : AdsStudio12@gmail.com
+Asset Store Page : http://u3d.as/joB
+Unity Forum Thread : https://forum.unity3d.com/threads/ebs-modular-building-system.366086/

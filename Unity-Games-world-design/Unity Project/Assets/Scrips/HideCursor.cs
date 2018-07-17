@@ -1,0 +1,22 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class HideCursor : MonoBehaviour {
+    private bool isShowingCursor;
+
+    // Use this for initialization
+    void Start () {
+
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
+	}
+
+    // Update is called once per frame
+    void Update()
+    {
+            Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None; 
+    }
+}

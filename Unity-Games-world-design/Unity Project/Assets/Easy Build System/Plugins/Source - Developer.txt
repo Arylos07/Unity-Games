@@ -1,0 +1,9 @@
+The .rar folder contains the sources of the project, you can modify them if you want to import your own modifications.
+You just have to open the solutions (EasyBuildSystem.Editor as well as EasyBuildSystem.Plugin)
+And import the references (UnityEngine, UnityEngine.UI) available in the bin file of EasyBuildSystem.Plugin).
+
+You can then compile that, and change the dll of project by your dll.
+
+It will be necessary for each modification of the code, you can define the way out to your project / EasyBuildSystem / Plugins to save time.
+
+Note : (UnityEngine, UnityEngine.UI) used from 2017f1 version.
