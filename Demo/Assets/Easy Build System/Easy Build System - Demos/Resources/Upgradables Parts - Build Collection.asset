@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1669859052, guid: 1307baa4c991a5b44b29c3c682cf2c29, type: 3}
+  m_Name: Upgradables Parts - Build Collection
+  m_EditorClassIdentifier: 
+  Parts:
+  - {fileID: 114478906692366752, guid: 3eec857dea9936b4d881e942b9507daf, type: 2}
+  - {fileID: 114170875418764052, guid: 46eab5519ea79234da3d82f2e403d664, type: 2}
+  - {fileID: 114629505966697466, guid: ac3bb48c56603504084868de573eba08, type: 2}
+  - {fileID: 114962328118027572, guid: 24a2c7f7921da3a4d8bf89f3c5b78fd4, type: 2}
+  - {fileID: 114106333336403554, guid: d20963578fa0e9d44b4b18523e016060, type: 2}
+  - {fileID: 114661695816764276, guid: c6f76678ed5f9f94a93f2afa2d5f6bd6, type: 2}
+  - {fileID: 114095255318055712, guid: e74cb3bff8d89b049a5492f20ad26431, type: 2}
+  - {fileID: 114578810215884500, guid: 6fd74506a2b901348bb49de952ea3655, type: 2}
+  - {fileID: 114106333336403554, guid: 8764ac3736221ee449f4d48c1f991391, type: 2}
+  - {fileID: 114106333336403554, guid: e26a17a81a816c646bfb3cc293cd110e, type: 2}
+  - {fileID: 114106333336403554, guid: edbb1ecd9cab02d47ae30ce99d97cb7f, type: 2}
+  - {fileID: 114106333336403554, guid: bc7bed8c656b48347b41eed0df85b210, type: 2}
+  - {fileID: 114106333336403554, guid: b3e2ecf272379d2478cfb03da6638d24, type: 2}

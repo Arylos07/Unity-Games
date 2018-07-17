@@ -1,0 +1,57 @@
+----------------------
+
+Important : Before importing an integration make sure you have correctly imported the demos package, some models are used, like upgradable parts, demos scripts, etc...
+
+If you hope to use one of the integrations available with Easy Build System, you need to enable integration from Easy Build System main editor then import the demo package.
+
+If there are integrations that you do not use you can delete them to avoid errors/missings.
+
+----------------------
+
+== Network (UNet & Photon Network) & Features ==
+
+For the UNet and Photon Network integration, it is possible to change the first person player who will be spawn by the network manager by the third person player.
+
+UNet :
+
+- One demo scene available with First Person & Third Person controller available (can be changed to Network Manager -> Spawn Info -> Player Prefab).
+- Hosting/Connecting by the Network Manager.
+- All the placements (position/rotation/scale) of parts are stored on the host also that the appearance index.
+- Build Storage is managed by the host, each placements will be saved/loaded on the host after server closing/starting.
+- Door rotation sync.
+
+Photon Network :
+
+- Based on the same principle as UNet integration.
+- One demo scene available with First Person & Third Person controller available (can be changed to Photon Manager -> Prefab Player).
+- Auto connect and join random room.
+- All the placements (position/rotation/scale) of parts are stored on the host also that the appearance index.
+- Build Storage is managed by the host, each placements will be saved/loaded on the host after server closing/starting.
+- Door rotation sync.
+
+(Important) Note : Use (PhotonServerSettings -> Auto-Join Lobby) for spawn in the demos.
+
+----------------------
+
+== Voxeland & Features ==
+
+- Voxeland terrain is compatible with Easy Build System.
+- Example add-on to remove the grass is also available.
+
+----------------------
+
+== Inventory Pro & Features ==
+
+- Demos scene available with Inventory and Crafting panel.
+- 13 upgradable items ready to use for Inventory Pro with sprites, a crafting recipe example is also available.
+- EbsCustomItemType available on Inventory Pro item editor (this will allow you to add a part to place when the object will be used).
+- Upgrade, destroy with the tool items.
+
+----------------------
+
+== Ultimate Survival & Features ==
+
+- Circular menu customized for Ultimate Survival (need to be replaced by the 10-Building Menu).
+- 13 upgradable items ready to use for Ultimate Inventory Pro with the Blueprint item.
+- Placement, repairing, upgrade according to required items and appearance index.
+- UI stability to display the stability of the placement also that the part health pourcentage.
