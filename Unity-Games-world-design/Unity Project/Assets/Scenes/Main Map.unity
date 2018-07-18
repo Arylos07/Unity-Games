@@ -14453,7 +14453,7 @@ MonoBehaviour:
   - {fileID: 613399230}
   - {fileID: 293969508}
   mp_Options:
-    GameVersion: Project Survival - v0.01
+    GameVersion: Project Survival - v0.02
     PlayersPerRoom: 4
     AreRoomsPublic: 1
     ServerRegion: 5
